@@ -1,0 +1,215 @@
+body {
+    color: #7F7F7F;
+    font-size: 12px;
+    font-family: 'Roboto', sans-serif;
+    margin: 0% 0%;
+}
+.logo {
+	font-family: Lobster;
+	color: #af0606;
+	font-size: 30px;
+	
+}
+#foodimg
+{
+	border-radius: 10px;
+	margin-left: 45px;
+	
+}
+
+.navBar
+{
+	list-style-type: none;
+  	margin-top: 15px;
+  	padding: 0;
+  	overflow:hidden;
+  	background-color: white;
+  	border-bottom: 3px solid #B8B8B8;
+	
+}
+li
+	{
+	display:inline;
+	
+	}
+li a
+	{
+	color:grey;
+	text-align: center;
+	padding:  16px;
+	font-size: 20px;
+	text-decoration: none;
+	}
+#searchbox
+{
+	width: 60%;
+}
+
+.homepageForm
+{
+	margin-left: 65px;
+	margin-top: 10px;
+	
+}
+.homepageForm *
+{
+	font-size: 145%;
+	
+}
+button
+{	border-radius: 3px;
+	margin-left : 25px;
+	margin-right : 13px;
+	padding-left: 18px;
+	padding-right: 18px;
+	padding-top : 5px;
+	background-color: #bb0000;
+	color: white;
+	border-style: none;
+}
+.options
+{
+	margin-left: 30px;
+}
+.loginFormLeft
+{	margin-top: 6%;
+	float:left;
+	font-size: 30px;
+	width: 50%;
+/* 	margin-left: 10%;
+	margin-top: 5%; */
+}
+.loginFormLeft label
+{
+	
+	color: black;
+	font-size: 24px;
+}
+.loginFormRight
+{
+	width: 50%;
+	float:right;
+	font-size: 30px;
+/* 	margin-right: 40%;
+	margin-top: 2%; */
+}
+.loginFormRight label
+{
+	color:black;
+	font-size: 24px;
+}
+.formDiv
+{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}
+
+
+ .regForm
+{
+	
+	width:90%;
+	
+	/* height:20px;
+	
+ */
+ 	font-size: 24px;
+ } 
+.submitButton
+{
+	margin-left: 0px;
+	width:90%;
+	background-color: #bb0000;
+	border-radius: 3px;
+	font-size: 18px;
+	height:40px;
+}
+input[type='checkbox']
+{
+	width:30px;
+    height:30px;
+    border-radius:5px;
+}
+.googleButton
+{
+	margin-left: 0px;
+	width:90%;
+	background-color: #469ffe;
+	border-radius: 3px;
+	font-size: 18px;
+	height:40px;
+	
+}
+#helloBar
+{
+	color:grey;
+	text-align: center;
+	padding:  16px;
+	font-size: 20px;
+	vertical-align:text-bottom;
+	text-decoration: none;
+	
+}
+#topHelloBar
+{
+	vertical-align:text-bottom;
+	
+}
+#resultLabel
+{
+	color: #7F7F7F;
+	font-size: 24px;
+	margin-left: 3%;
+	
+}
+hr
+{
+	margin-left: 3%;
+	margin-right: 7%;
+}
+#errorMsg
+{ display: inline-block;
+  height: 75px; /*sets height of element*/
+  width: 100%;
+  font-size: 16px;
+  background: pink;
+  padding-left: 40%; /*sets 'padding'*/
+  line-height: 75px; /*for this, it sets vertical alignment*/
+	
+}
+.restrauntImage
+{
+	width: 256px;
+	height: 256px;
+/* 	object-fit: fill;
+ */	border-radius: 10px;
+	position:relative;
+	overflow:hidden;
+	
+}
+.container
+{
+	margin-left: 40px;
+	display:flex;
+}
+.restText
+{
+	margin-top: 10px;
+	margin-left: 35px;
+}
+#noResults
+{
+	font-size: 25px;
+	margin-left: 55px;
+}
+#restName
+{
+	font-size: 25px;
+}
+.container *
+{
+	font-size: 16px;
+}
+
+
