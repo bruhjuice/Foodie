@@ -3,7 +3,7 @@ package Util;
 import java.util.regex.Pattern;
 
 public class Constant {
-    //TODO replace it with your DB credentials
+    //replace it with your DB credentials
     static public String DBUserName = "root";
     static public String DBPassword = "root";
     static public String FileName = "restaurant_data.json";
