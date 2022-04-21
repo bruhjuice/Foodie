@@ -32,22 +32,23 @@ Foodie is a web application that allows you to search for the nearest restraunts
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-
-Program scrapes data for the top 100 most actively traded stocks of the day and updates with percent change after specified time interval
+I 
 <br> 
 
-<img width="1502" alt="Screen Shot 2021-01-12 at 12 19 15 PM" src="https://user-images.githubusercontent.com/69620469/111929284-26195a80-8a73-11eb-8b93-f886031c75de.png">
+<img width="1790" alt="Screen Shot 2022-04-21 at 4 23 40 PM" src="https://user-images.githubusercontent.com/69620469/164566791-20e01260-53f7-49ef-94c3-2a7e23658b9c.png">
+<img width="1782" alt="Screen Shot 2022-04-07 at 4 48 50 PM" src="https://user-images.githubusercontent.com/69620469/164566895-5bbf1e6f-0eef-4e32-941d-0e6edb90c0f2.png">
+<img width="1788" alt="Screen Shot 2022-04-07 at 4 48 56 PM" src="https://user-images.githubusercontent.com/69620469/164566915-8af65b1e-593a-42e0-9db9-13995570251f.png">
+<img width="1791" alt="Screen Shot 2022-04-21 at 4 22 24 PM" src="https://user-images.githubusercontent.com/69620469/164566970-c9c342e4-d7c3-4baf-a125-904c55103800.png">
 
 Outputs the top 10 biggest gainers into text file
 <br> 
 
 
-<img width="683" alt="Screen Shot 2021-01-12 at 12 20 14 PM" src="https://user-images.githubusercontent.com/69620469/111929216-f23e3500-8a72-11eb-8571-292bdd168d08.png">
 
 Placeholder text
 <br> 
 
-<img width="192" alt="Screen Shot 2021-01-12 at 12 29 16 PM" src="https://user-images.githubusercontent.com/69620469/111929303-39c4c100-8a73-11eb-96be-1d6ec5cf70b6.png">
+
 
 
 
