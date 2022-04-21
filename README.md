@@ -16,6 +16,7 @@ Foodie is a web application that allows you to search for the nearest restraunts
 * HTML
 * CSS
 * JavaScript
+* Google login API
 
 
 
@@ -32,21 +33,17 @@ Foodie is a web application that allows you to search for the nearest restraunts
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-I 
+Run index.jsp on your local server in order to view the project. Upon start, the user will be taken to a home page where they have the option to search by restraunt name or food category. They also have the option to create or login into an account, or just simply login using Google. 
+
 <br> 
 
 <img width="1790" alt="Screen Shot 2022-04-21 at 4 23 40 PM" src="https://user-images.githubusercontent.com/69620469/164566791-20e01260-53f7-49ef-94c3-2a7e23658b9c.png">
+<br> 
+<img width="1791" alt="Screen Shot 2022-04-21 at 4 22 24 PM" src="https://user-images.githubusercontent.com/69620469/164566970-c9c342e4-d7c3-4baf-a125-904c55103800.png">
 <img width="1782" alt="Screen Shot 2022-04-07 at 4 48 50 PM" src="https://user-images.githubusercontent.com/69620469/164566895-5bbf1e6f-0eef-4e32-941d-0e6edb90c0f2.png">
 <img width="1788" alt="Screen Shot 2022-04-07 at 4 48 56 PM" src="https://user-images.githubusercontent.com/69620469/164566915-8af65b1e-593a-42e0-9db9-13995570251f.png">
-<img width="1791" alt="Screen Shot 2022-04-21 at 4 22 24 PM" src="https://user-images.githubusercontent.com/69620469/164566970-c9c342e4-d7c3-4baf-a125-904c55103800.png">
-
-Outputs the top 10 biggest gainers into text file
-<br> 
 
 
-
-Placeholder text
-<br> 
 
 
 
