@@ -69,8 +69,8 @@
         
         <!--  
         <h1 class = "logo"> <a href = "index.jsp"> SalEats! </a> </h1> 
-        secret: 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
-        client id: 443326407406-l54k040rl05jrh1huhjubvlblb5499ej.apps.googleusercontent.com
+        secret: YOUR SECRET KEY
+        client id: YOUR CLINET ID.apps.googleusercontent.com
         -->
         <img id = "foodimg" src = "banner.jpeg" alt = "food homepage" width = 95% height = "95%">
         <form action = "search" method = "GET" class = homepageForm>
